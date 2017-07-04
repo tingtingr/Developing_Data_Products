@@ -1,0 +1,11 @@
+name: advertisement_activity_app
+title: my_app
+account: wendyr
+server: shinyapps.io
+appId: 194243
+bundleId: 891477
+url: https://wendyr.shinyapps.io/advertisement_activity_app/
+when: 1499188855.69295
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: global.r|instantcart.R|instantcart.rmd|movies.db
